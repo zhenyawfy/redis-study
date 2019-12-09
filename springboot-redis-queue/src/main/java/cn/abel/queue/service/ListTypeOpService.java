@@ -35,8 +35,4 @@ public class ListTypeOpService {
         return redisTemplate.opsForList().rightPop(key);
     }
 
-    public Object ll() {
-        redisTemplate.opsForList().
-    }
-
 }
