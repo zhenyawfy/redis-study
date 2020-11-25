@@ -1,4 +1,4 @@
-package cn.abel.queue.config;
+package com.hzy.config;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;

@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.abel</groupId>
-    <artifactId>springboot-redis-queue</artifactId>
+    <artifactId>redis-option</artifactId>
     <version>1.0-SNAPSHOT</version>
     <parent>
         <groupId>org.springframework.boot</groupId>

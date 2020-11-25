@@ -1,7 +1,7 @@
-package cn.abel.queue.controller;
+package com.hzy.controller;
 
-import cn.abel.queue.service.HashTypeOpService;
-import cn.abel.queue.service.StringTypeOpService;
+import com.hzy.service.HashTypeOpService;
+import com.hzy.service.StringTypeOpService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

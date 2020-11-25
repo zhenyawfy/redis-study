@@ -1,7 +1,7 @@
-package cn.abel.queue.controller;
+package com.hzy.controller;
 
-import cn.abel.queue.service.ProducerService;
-import cn.abel.queue.service.ReceiverService;
+import com.hzy.service.ProducerService;
+import com.hzy.service.ReceiverService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
